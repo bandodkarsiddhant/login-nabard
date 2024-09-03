@@ -361,7 +361,7 @@ span {
 }
 
 /* For larger desktops */
-@media (min-width: 1920px) {
+@media (min-width: 1441px) {
   #login-asset3 {
     height: 54vh;
     width: 40vw;
