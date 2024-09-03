@@ -361,21 +361,21 @@ span {
 }
 
 /* For larger desktops */
-@media (min-width: 1441px) {
+@media (min-width: 1920px) {
   #login-asset3 {
     height: 54vh;
-    width: 35vw;
+    width: 40vw;
   }
 
   #login-asset4 {
-    width: 24vw;
+    width: 26vw;
     height: 54vh;
   }
 
   #login-asset5 {
-    right: 25vw;
-    bottom: 34vh;
-    width: 16vw;
+    left: 8vw;
+    top: 26vh;
+    width: 18vw;
     height: 38vh;
     transform: rotate(4deg);
   }
@@ -402,10 +402,6 @@ span {
   #login-asset3 {
     width: 530px;
     height: 382px;
-  }
-
-  #login-asset5 {
-    margin-top: 16px;
   }
 }
 
