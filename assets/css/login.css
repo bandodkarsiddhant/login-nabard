@@ -363,22 +363,21 @@ span {
 /* For larger desktops */
 @media (min-width: 1920px) {
   #login-asset3 {
-    height: 570px;
-    width: 798px;
+    height: 54vh;
+    width: 35vw;
   }
 
   #login-asset4 {
-    width: 518px;
-    height: 500px;
-    top: 190px;
+    width: 24vw;
+    height: 54vh;
   }
 
   #login-asset5 {
-    left: 170px;
-    top: 330px;
-    width: 324px;
-    height: 380px;
-    transform: rotate(3deg);
+    right: 25vw;
+    bottom: 34vh;
+    width: 16vw;
+    height: 38vh;
+    transform: rotate(4deg);
   }
 
   #nabard-logo {
@@ -411,7 +410,7 @@ span {
 }
 
 /* For 1920*1080 laptops */
-@media (min-width: 1536px) and (max-width: 1920px) and (resolution: 120dpi) {
+/* @media (min-width: 1536px) and (max-width: 1920px) and (resolution: 120dpi) {
   #login-asset5 {
     left: 134px;
     top: 205px;
@@ -427,4 +426,4 @@ span {
     width: 560px;
     height: 412px;
   }
-}
+} */
