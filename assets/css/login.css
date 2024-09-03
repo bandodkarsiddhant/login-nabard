@@ -364,20 +364,21 @@ span {
 @media (min-width: 1441px) {
   #login-asset3 {
     height: 54vh;
-    width: 40vw;
+    width: 35vw;
   }
 
   #login-asset4 {
-    width: 26vw;
+    width: 24vw;
     height: 54vh;
+    top: 13vh;
   }
 
   #login-asset5 {
     left: 8vw;
     top: 26vh;
-    width: 18vw;
+    width: 16vw;
     height: 38vh;
-    transform: rotate(4deg);
+    transform: rotate(11deg);
   }
 
   #nabard-logo {
